@@ -9,7 +9,7 @@
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd><?i was ther aaa?></cmd>
             </step>
         </steps>
     </taskbody>
